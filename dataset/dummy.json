@@ -1,0 +1,17 @@
+[
+    {
+    "id" : 1,
+    "judul" : "Beranda Toko Kpop Store",
+    "isi" : "Merupakan halaman depan dimana custumer dapat melakukan login dan register"
+    },
+    {
+    "id" : 2,
+    "judul" : "Lemari Toko",
+    "isi" : "Merbagai barang dan produk yang dijual toko ini "
+    },
+    {
+    "id" : 3,
+    "judul" : "Pemesanan dan Pembayaran",
+    "isi" : "Melakukan pemesanan produk yang dipilih dan melakukan pembayaran sesuai alur yang dipilih"
+    }
+   ]

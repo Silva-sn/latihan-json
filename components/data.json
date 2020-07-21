@@ -1,0 +1,26 @@
+[
+    {
+        "toko":"kpop store",
+        "info":{
+            "album":"bts,exo,bp",
+            "website":"kpopstore.ac.id",
+            "kontak":"123456789"
+        }
+    },
+    {
+        "pemesanan":"cek kembali pesanan anda",
+        "info":{
+            "produk":"album yang dipilih (bts)",
+            "harga":"200.000",
+            "total":"200.000"
+        }
+    },
+    {
+        "pembayaran":"masukkan alamt sesuai perintah",
+        "info":{
+            "nama":"riska aulia",
+            "alamat":"banyuwangi",
+            "nohp":"08857353682"
+        }
+    }
+]
