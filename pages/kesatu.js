@@ -6,12 +6,16 @@ return(
         <Layout>
         <h1>Login</h1>
         <p>masuk acaunt anda dan happy shooping</p>
+        <hr/>
+                <label>Email : </label>
+                <input type="email" id="txt_email"/>
+                <br/>
+                <label>Password : </label>
+                <input type="password" id="txt_password"/>
+                <p align="center"><a href="ketigabaru.html"><button >MASUK</button></a></p>
         <hr />
         </Layout>
-        <p>Alamat : Banyuwangi</p>
-        <p>Contac Person : 08634276271</p>
-        <p>Email : kpop_store@gmail.com</p>
-        <hr />
+        
     </div>
     
 );

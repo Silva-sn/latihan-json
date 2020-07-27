@@ -19,16 +19,11 @@ return(
                    <p><h3>harga</h3>:{data.info.harga}</p>
                    <p><h3>total</h3>:{data.info.total}</p>
             </div>
-  
          )}
     </div>
 
         </Layout>
-        <h3>Hubungi kami</h3>
-        <p>Alamat : Banyuwangi</p>
-        <p>Contac Person : 08634276271</p>
-        <p>Email : kpop_store@gmail.com</p>
-        <hr />
+        
     </div>
     
 );
